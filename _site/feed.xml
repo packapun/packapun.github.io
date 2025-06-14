@@ -1,0 +1,79 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Packapun</title>
+  <subtitle>All things tech and more.</subtitle>
+  <updated>2025-06-13T22:16:03-04:00</updated>
+  <author>
+    <name>packapun</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 packapun </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Starting PackPun: A Journey Through Software Engineering</title>
+    <link href="http://localhost:4000/posts/starting-packpun/" rel="alternate" type="text/html" title="Starting PackPun: A Journey Through Software Engineering" />
+    <published>2025-06-13T00:00:00-04:00</published>
+  
+    <updated>2025-06-13T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/starting-packpun/</id>
+    <content type="text/html" src="http://localhost:4000/posts/starting-packpun/" />
+    <author>
+      <name>packapun</name>
+    </author>
+
+  
+    
+    <category term="Career" />
+    
+    <category term="Technology" />
+    
+    <category term="Software Engineering" />
+    
+  
+
+  <summary>Starting PackPun: A Journey Through Software Engineering  In June 2025, I wanted to start sharing what I learned throughout my career in technology as I navigated challenging situations and how I made sure to keep the spark alive by thinking longer term.  The Evolution of a Software Engineer     “The best way to predict the future is to implement it.” - Alan Kay   The Early Days  My journey in ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>The Dreamer's Code: A Founding Engineer's Journey</title>
+    <link href="http://localhost:4000/posts/hello-robot/" rel="alternate" type="text/html" title="The Dreamer&amp;apos;s Code: A Founding Engineer&amp;apos;s Journey" />
+    <published>2025-06-03T00:00:00-04:00</published>
+  
+    <updated>2025-06-03T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/hello-robot/</id>
+    <content type="text/html" src="http://localhost:4000/posts/hello-robot/" />
+    <author>
+      <name>packapun</name>
+    </author>
+
+  
+    
+    <category term="Technology" />
+    
+    <category term="Innovation" />
+    
+    <category term="Personal Journey" />
+    
+  
+
+  <summary>“Technology is best when it brings people together.” - Matt Mullenweg   The Beginning: A Spark of Innovation  In the quiet corners of a university dorm room, where the glow of computer screens illuminated late-night coding sessions, a dream was born. This is the story of a founding engineer whose vision transcended mere lines of code – it was about creating a better world through technology.  T...</summary>
+
+  </entry>
+
+</feed>
+
+
