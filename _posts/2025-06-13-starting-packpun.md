@@ -1,11 +1,9 @@
 ---
-title: "Starting PackPun: A Journey Through Software Engineering"
+title: "Starting Packapun: A Journey Through Software Engineering"
 date: 2025-06-13
 categories: [Career, Technology, Software Engineering]
 tags: [career development, software engineering, technology]
 ---
-
-# Starting PackPun: A Journey Through Software Engineering
 
 In June 2025, I wanted to start sharing what I learned throughout my career in technology as I navigated challenging situations and how I made sure to keep the spark alive by thinking longer term.
 
