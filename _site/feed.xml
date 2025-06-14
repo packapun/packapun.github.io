@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Packapun</title>
   <subtitle>All things tech and more.</subtitle>
-  <updated>2025-06-13T22:16:03-04:00</updated>
+  <updated>2025-06-13T22:42:11-04:00</updated>
   <author>
     <name>packapun</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Starting PackPun: A Journey Through Software Engineering</title>
-    <link href="http://localhost:4000/posts/starting-packpun/" rel="alternate" type="text/html" title="Starting PackPun: A Journey Through Software Engineering" />
+    <title>Starting Packapun: A Journey Through Software Engineering</title>
+    <link href="http://localhost:4000/posts/starting-packapun/" rel="alternate" type="text/html" title="Starting Packapun: A Journey Through Software Engineering" />
     <published>2025-06-13T00:00:00-04:00</published>
   
     <updated>2025-06-13T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/starting-packpun/</id>
-    <content type="text/html" src="http://localhost:4000/posts/starting-packpun/" />
+    <id>http://localhost:4000/posts/starting-packapun/</id>
+    <content type="text/html" src="http://localhost:4000/posts/starting-packapun/" />
     <author>
       <name>packapun</name>
     </author>
@@ -42,7 +42,7 @@
     
   
 
-  <summary>Starting PackPun: A Journey Through Software Engineering  In June 2025, I wanted to start sharing what I learned throughout my career in technology as I navigated challenging situations and how I made sure to keep the spark alive by thinking longer term.  The Evolution of a Software Engineer     “The best way to predict the future is to implement it.” - Alan Kay   The Early Days  My journey in ...</summary>
+  <summary>In June 2025, I wanted to start sharing what I learned throughout my career in technology as I navigated challenging situations and how I made sure to keep the spark alive by thinking longer term.  The Evolution of a Software Engineer     “The best way to predict the future is to implement it.” - Alan Kay   The Early Days  My journey in software engineering began with the fundamental building b...</summary>
 
   </entry>
 
